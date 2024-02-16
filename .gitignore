@@ -14,7 +14,8 @@ docs/
 .env
 
 broadcast/
-lib/
+lib/forge-std
+
 
 
  
